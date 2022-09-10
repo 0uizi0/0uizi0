@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&section=header&text=Eun-jeong%20Kim%20&fontSize=40&desc=🌱%20Front-end%20Developer%20🌱&descSize=18&descAlignY=70&animation=fadeIn&fontColor=618f56)
 
-<img src="https://user-images.githubusercontent.com/102431281/188501778-008f8da7-b370-49a8-ab21-451155af1a33.jpg" width="300">. 
+<img src="https://user-images.githubusercontent.com/102431281/188501778-008f8da7-b370-49a8-ab21-451155af1a33.jpg" width="300"> 
 
 
 <p>Hi, I'm Front-end Developer</p>
