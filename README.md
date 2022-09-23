@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0uizi0&theme=gotham)](https://github.com/0uizi0/github-readme-stats)
 <img width= "420" src="https://github-readme-streak-stats.herokuapp.com/?user=0uizi0&" alt="Eunjeong Kim" />
 
-<br>
+<br><br>
 <h3>:herb: About Me</h3>
 
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
