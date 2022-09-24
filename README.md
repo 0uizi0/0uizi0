@@ -28,10 +28,17 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0uizi0&theme=gotham)](https://github.com/0uizi0/github-readme-stats)
 <img width= "420" src="https://github-readme-streak-stats.herokuapp.com/?user=0uizi0&" alt="Eunjeong Kim" />
 
-<br><br>
+<br>
 <h3>:herb: About Me</h3>
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+
+<br><p>🎧 MUSIC PLAYLIST 🎧</p>
+
+<a href="https://www.youtube.com/watch?v=ukfML42qmjE&list=PL8PsXGxxe4ESjIvNrMb_y2n2bnGR8_pi-" target="_blank">
+<img src="https://lh3.googleusercontent.com/ZYQGg8yjQl2AyqTpqzsavDa63vaVr5gqVJpRLJETeU8DvU11Zt5d_q9i_7XfuAfjulTji6EQqutAd0pfTg=w544-h544-l90-rj" width="400">
+</a>
+
+<br><br><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <a href="https://tangy-ruby-851.notion.site/46ea15c5b3e847bfb91f845b2c2e50e4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 <a href="https://tangy-ruby-851.notion.site/46ea15c5b3e847bfb91f845b2c2e50e4" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
 <a href="mailto:0uizi0@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
