@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <a href="mailto:0uizi0@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
+<br>
 <div>
 <img align= "right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2F0uizi0%20uizi0%2Fblob%2Fmain%2FREADME.md&count_bg=%237F3ACE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Eunjeong Kim" />
 </div>
