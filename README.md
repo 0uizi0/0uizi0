@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0uizi0&show_icons=true&theme=gotham) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0uizi0&theme=gotham)](https://github.com/0uizi0/github-readme-stats)
-<img width= "420" src="https://github-readme-streak-stats.herokuapp.com/?user=0uizi0&" alt="Eunjeong Kim" />
+<!-- <img width= "420" src="https://github-readme-streak-stats.herokuapp.com/?user=0uizi0&" alt="Eunjeong Kim" /> -->
 
 <br>
 <h3>:herb: About Me</h3>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br><br><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <a href="https://tangy-ruby-851.notion.site/46ea15c5b3e847bfb91f845b2c2e50e4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
-<a href="https://tangy-ruby-851.notion.site/46ea15c5b3e847bfb91f845b2c2e50e4" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
+<a href="https://velog.io/@0l0jjo" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
 <a href="mailto:0uizi0@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
