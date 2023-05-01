@@ -17,9 +17,9 @@
 <a>
 <img width= "51%" src="https://github-readme-streak-stats.herokuapp.com/?user=0uizi0&theme=vue-dark&background=20232a&hide_border=true" alt="Eunjeong Kim" />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0uizi0&theme=react-dark&bg_color=20232a&hide_border=true&line=5AAB80&color=5AAB80" width=98%/>
-</a>
+</a> -->
 
 
 <br><br><br>
